@@ -1,3 +1,8 @@
+/**
+ * @author lijk@infosec.com.cn
+ * @version 0.0.1
+ * @date 2018-8-21 16:15:16
+**/
 #include <stdio.h>
 #include <errno.h>
 #include <string.h>
